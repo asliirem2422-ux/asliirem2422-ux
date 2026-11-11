@@ -55,7 +55,14 @@
 
 ### 📊 GitHub Stats & Activity
 
-[![Aslı İrem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asliirem2422-ux&theme=react-dark)](https://github.com/asliirem2422-ux)
+[![GitHub Activity](https://img.shields.io/badge/GitHub-Profile_Overview-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asliirem2422-ux)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Repositories-Public-blue?style=flat-square&logo=github" alt="Repos" />
+  <img src="https://img.shields.io/badge/Primary_Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Language" />
+  <img src="https://img.shields.io/badge/Frontend-React_%7C_Vite-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Stack" />
+  <img src="https://img.shields.io/badge/Status-Active_Student_%26_Developer-success?style=flat-square" alt="Status" />
+</p>
 ---
 
 📫 **Connect with me:**
