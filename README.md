@@ -55,10 +55,11 @@
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asliirem2422-ux&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asliirem2422-ux&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
+### 📊 GitHub Stats & Activity
+
+[![Asli Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=asliirem2422-ux&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asliirem2422-ux&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
